@@ -1,1 +1,1 @@
-# ChatApp
+A simple ASP.NET Core MVC app that accepts messages and displays them as a list. It is made as an exercise for a AS.NET Core Fundamentals course in SoftUni.
